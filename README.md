@@ -1,2 +1,2 @@
-# CODSOFT
+# GAMES
 My Internship Tasks.
